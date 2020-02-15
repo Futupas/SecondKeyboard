@@ -1,0 +1,171 @@
+{
+  "website": {
+    "ipAddress": "http://192.168.0.105:80/",
+    "indexHtmlPath": "C:\\PROJECTS\\SecondKeyboard\\Website\\index.html"
+  },
+  "virtualPhysicalPathMatches": [
+    {
+      "virtualPath": "/app.js",
+      "physicalPath": "C:\\PROJECTS\\SecondKeyboard\\Website\\app.js"
+    },
+    {
+      "virtualPath": "/styles.css",
+      "physicalPath": "C:\\PROJECTS\\SecondKeyboard\\Website\\styles.css"
+    }
+  ],
+  "buttons": [
+    {
+      "top": "0px",
+      "bottom": null,
+      "left": "0px",
+      "right": "0px",
+      "width": "100vw",
+      "height": "20vh",
+
+      "backgroundColor": "#00f",
+      "color": "#fff",
+      "text": "LANG",
+      "fontSize": "5vh",
+      "position": "fixed",
+      "lineHeight": "20vh",
+
+      "key": "LWIN+SPACE"
+    },
+    {
+      "top": "20vh",
+      "bottom": null,
+      "left": "0px",
+      "right": null,
+      "width": "50vw",
+      "height": "20vh",
+
+      "backgroundColor": "#f00",
+      "color": "#fff",
+      "text": "Ctrl+C",
+      "fontSize": "5vh",
+      "position": "fixed",
+      "lineHeight": "20vh",
+
+      "key": "LCONTROL+VK_C"
+    },
+    {
+      "top": "20vh",
+      "bottom": null,
+      "left": "50vw",
+      "right": null,
+      "width": "50vw",
+      "height": "20vh",
+
+      "backgroundColor": "#0f0",
+      "color": "#000",
+      "text": "Ctrl+V",
+      "fontSize": "5vh",
+      "position": "fixed",
+      "lineHeight": "20vh",
+
+      "key": "LCONTROL+VK_V"
+    },
+    {
+      "top": "40vh",
+      "bottom": null,
+      "left": "0vw",
+      "right": null,
+      "width": "100vw",
+      "height": "20vh",
+
+      "backgroundColor": "#44f",
+      "color": "#000",
+      "text": "Play / Pause",
+      "fontSize": "5vh",
+      "position": "fixed",
+      "lineHeight": "20vh",
+
+      "key": "MEDIA_PLAY_PAUSE"
+    },
+    {
+      "top": "60vh",
+      "bottom": null,
+      "left": "0vw",
+      "right": null,
+      "width": "50vw",
+      "height": "20vh",
+
+      "backgroundColor": "#4f4",
+      "color": "#000",
+      "text": "<-",
+      "fontSize": "5vh",
+      "position": "fixed",
+      "lineHeight": "20vh",
+
+      "key": "MENU+LEFT"
+    },
+    {
+      "top": "60vh",
+      "bottom": null,
+      "left": "50vw",
+      "right": null,
+      "width": "50vw",
+      "height": "20vh",
+
+      "backgroundColor": "#0b0",
+      "color": "#000",
+      "text": "->",
+      "fontSize": "5vh",
+      "position": "fixed",
+      "lineHeight": "20vh",
+
+      "key": "MENU+RIGHT"
+    },
+    {
+      "top": "80vh",
+      "bottom": null,
+      "left": "0vw",
+      "right": null,
+      "width": "33.3vw",
+      "height": "20vh",
+
+      "backgroundColor": "#fff",
+      "color": "#000",
+      "text": "VD",
+      "fontSize": "5vh",
+      "position": "fixed",
+      "lineHeight": "20vh",
+
+      "key": "VOLUME_DOWN"
+    },
+    {
+      "top": "80vh",
+      "bottom": null,
+      "left": "33.3vw",
+      "right": null,
+      "width": "33.3vw",
+      "height": "20vh",
+
+      "backgroundColor": "#fff",
+      "color": "#000",
+      "text": "VM",
+      "fontSize": "5vh",
+      "position": "fixed",
+      "lineHeight": "20vh",
+
+      "key": "VOLUME_MUTE"
+    },
+    {
+      "top": "80vh",
+      "bottom": null,
+      "left": "66.6vw",
+      "right": null,
+      "width": "33.3vw",
+      "height": "20vh",
+
+      "backgroundColor": "#fff",
+      "color": "#000",
+      "text": "VU",
+      "fontSize": "5vh",
+      "position": "fixed",
+      "lineHeight": "20vh",
+
+      "key": "VOLUME_UP"
+    }
+  ]
+}

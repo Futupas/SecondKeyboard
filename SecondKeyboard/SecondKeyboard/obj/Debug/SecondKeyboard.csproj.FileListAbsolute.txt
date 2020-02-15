@@ -1,0 +1,11 @@
+C:\PROJECTS\SecondKeyboard\SecondKeyboard\SecondKeyboard\bin\Debug\SecondKeyboard.exe.config
+C:\PROJECTS\SecondKeyboard\SecondKeyboard\SecondKeyboard\bin\Debug\SecondKeyboard.exe
+C:\PROJECTS\SecondKeyboard\SecondKeyboard\SecondKeyboard\bin\Debug\SecondKeyboard.pdb
+C:\PROJECTS\SecondKeyboard\SecondKeyboard\SecondKeyboard\obj\Debug\SecondKeyboard.csprojAssemblyReference.cache
+C:\PROJECTS\SecondKeyboard\SecondKeyboard\SecondKeyboard\obj\Debug\SecondKeyboard.exe
+C:\PROJECTS\SecondKeyboard\SecondKeyboard\SecondKeyboard\obj\Debug\SecondKeyboard.pdb
+C:\PROJECTS\SecondKeyboard\SecondKeyboard\SecondKeyboard\bin\Debug\Newtonsoft.Json.dll
+C:\PROJECTS\SecondKeyboard\SecondKeyboard\SecondKeyboard\bin\Debug\WindowsInput.dll
+C:\PROJECTS\SecondKeyboard\SecondKeyboard\SecondKeyboard\bin\Debug\Newtonsoft.Json.xml
+C:\PROJECTS\SecondKeyboard\SecondKeyboard\SecondKeyboard\bin\Debug\WindowsInput.xml
+C:\PROJECTS\SecondKeyboard\SecondKeyboard\SecondKeyboard\obj\Debug\SecondKeyboard.csproj.CopyComplete
